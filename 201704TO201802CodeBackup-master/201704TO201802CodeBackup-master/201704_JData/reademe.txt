@@ -1,0 +1,4 @@
+原始文件解压到data中
+data中有一个前期处理文件，通过运行data中的文件后，count_user_action_time_fecture.csv用excle对天数处理
+解压后直接运行 runme.bat
+结果在sub文件夹
